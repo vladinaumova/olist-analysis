@@ -1,0 +1,2 @@
+-- 01_basics.sql
+-- SQL basics on the Olist dataset (database: data/olist.db)
